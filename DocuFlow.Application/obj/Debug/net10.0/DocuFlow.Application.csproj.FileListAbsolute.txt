@@ -1,0 +1,17 @@
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\bin\Debug\net10.0\DocuFlow.Application.deps.json
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\bin\Debug\net10.0\DocuFlow.Application.dll
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\bin\Debug\net10.0\DocuFlow.Application.pdb
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\bin\Debug\net10.0\DocuFlow.Domain.dll
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\bin\Debug\net10.0\DocuFlow.Shared.dll
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\bin\Debug\net10.0\DocuFlow.Domain.pdb
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\bin\Debug\net10.0\DocuFlow.Shared.pdb
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\obj\Debug\net10.0\DocuFlow.Application.csproj.AssemblyReference.cache
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\obj\Debug\net10.0\DocuFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\obj\Debug\net10.0\DocuFlow.Application.AssemblyInfoInputs.cache
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\obj\Debug\net10.0\DocuFlow.Application.AssemblyInfo.cs
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\obj\Debug\net10.0\DocuFlow.Application.csproj.CoreCompileInputs.cache
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\obj\Debug\net10.0\DocuFlow.9062EFEC.Up2Date
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\obj\Debug\net10.0\DocuFlow.Application.dll
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\obj\Debug\net10.0\refint\DocuFlow.Application.dll
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\obj\Debug\net10.0\DocuFlow.Application.pdb
+C:\Users\AHMET80\DocuFlow\DocuFlow.Application\obj\Debug\net10.0\ref\DocuFlow.Application.dll

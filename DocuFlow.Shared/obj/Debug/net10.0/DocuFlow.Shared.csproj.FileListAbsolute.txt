@@ -1,0 +1,11 @@
+c:\Users\AHMET80\DocuFlow\DocuFlow.Shared\bin\Debug\net10.0\DocuFlow.Shared.deps.json
+C:\Users\AHMET80\DocuFlow\DocuFlow.Shared\bin\Debug\net10.0\DocuFlow.Shared.dll
+C:\Users\AHMET80\DocuFlow\DocuFlow.Shared\bin\Debug\net10.0\DocuFlow.Shared.pdb
+C:\Users\AHMET80\DocuFlow\DocuFlow.Shared\obj\Debug\net10.0\DocuFlow.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMET80\DocuFlow\DocuFlow.Shared\obj\Debug\net10.0\DocuFlow.Shared.AssemblyInfoInputs.cache
+C:\Users\AHMET80\DocuFlow\DocuFlow.Shared\obj\Debug\net10.0\DocuFlow.Shared.AssemblyInfo.cs
+C:\Users\AHMET80\DocuFlow\DocuFlow.Shared\obj\Debug\net10.0\DocuFlow.Shared.csproj.CoreCompileInputs.cache
+C:\Users\AHMET80\DocuFlow\DocuFlow.Shared\obj\Debug\net10.0\DocuFlow.Shared.dll
+C:\Users\AHMET80\DocuFlow\DocuFlow.Shared\obj\Debug\net10.0\refint\DocuFlow.Shared.dll
+C:\Users\AHMET80\DocuFlow\DocuFlow.Shared\obj\Debug\net10.0\DocuFlow.Shared.pdb
+c:\Users\AHMET80\DocuFlow\DocuFlow.Shared\obj\Debug\net10.0\ref\DocuFlow.Shared.dll

@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DocuFlow.Application/1.0.0": {
+        "dependencies": {
+          "DocuFlow.Domain": "1.0.0",
+          "DocuFlow.Shared": "1.0.0"
+        },
+        "runtime": {
+          "DocuFlow.Application.dll": {}
+        }
+      },
+      "DocuFlow.Domain/1.0.0": {
+        "runtime": {
+          "DocuFlow.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DocuFlow.Shared/1.0.0": {
+        "runtime": {
+          "DocuFlow.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DocuFlow.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocuFlow.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocuFlow.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

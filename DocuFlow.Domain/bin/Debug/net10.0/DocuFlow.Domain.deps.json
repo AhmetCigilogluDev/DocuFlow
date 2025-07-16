@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DocuFlow.Domain/1.0.0": {
+        "runtime": {
+          "DocuFlow.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DocuFlow.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
