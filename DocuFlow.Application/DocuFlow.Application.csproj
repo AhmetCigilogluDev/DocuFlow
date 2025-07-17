@@ -3,6 +3,8 @@
   <ItemGroup>
     <ProjectReference Include="..\DocuFlow.Domain\DocuFlow.Domain.csproj" />
     <ProjectReference Include="..\DocuFlow.Shared\DocuFlow.Shared.csproj" />
+  
+    
   </ItemGroup>
 
   <PropertyGroup>

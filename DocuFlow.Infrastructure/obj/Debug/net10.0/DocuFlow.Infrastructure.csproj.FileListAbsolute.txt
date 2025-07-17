@@ -1,3 +1,9 @@
+C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.AssemblyInfo.cs
+C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.sourcelink.json
 C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\bin\Debug\net10.0\DocuFlow.Infrastructure.deps.json
 C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\bin\Debug\net10.0\DocuFlow.Infrastructure.dll
 C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\bin\Debug\net10.0\DocuFlow.Infrastructure.pdb
@@ -7,11 +13,6 @@ C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\bin\Debug\net10.0\DocuFlow.Sha
 C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\bin\Debug\net10.0\DocuFlow.Application.pdb
 C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\bin\Debug\net10.0\DocuFlow.Domain.pdb
 C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\bin\Debug\net10.0\DocuFlow.Shared.pdb
-C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.AssemblyInfo.cs
-C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.1DABFDCB.Up2Date
 C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\DocuFlow.Infrastructure.dll
 C:\Users\AHMET80\DocuFlow\DocuFlow.Infrastructure\obj\Debug\net10.0\refint\DocuFlow.Infrastructure.dll
