@@ -50,6 +50,20 @@ builder.Services.AddSwaggerGen(c =>
     c.AddSecurityRequirement(securityRequirement);
 });
 
+
+
+// CORS CONFIGURATION
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
+
 // bu dependency injectiondur
 //IFolderService, FolderServices
 builder.Services.AddScoped<IFolderService, FolderServices>();
@@ -61,9 +75,13 @@ builder.Services.AddScoped<IDocumentService, DocumentService>();
 builder.Services.AddScoped<IUserService, UserService>();
 
 
-//AppDbContext.cs
+//AppDbContext.cs -> ıt was temporay database, now I am using to SQL server,the code is the downstairs
+// builder.Services.AddDbContext<AppDbContext>(options =>
+//     options.UseInMemoryDatabase("DocuFlowDb")); // veya SQL Server vs.
+
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseInMemoryDatabase("DocuFlowDb")); // veya SQL Server vs.
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+);
 
 
 var app = builder.Build();
@@ -76,6 +94,7 @@ if (app.Environment.IsDevelopment())
         c.RoutePrefix = string.Empty;
     });
 }
+app.UseCors("AllowAll");
 
 
 app.UseHttpsRedirection();

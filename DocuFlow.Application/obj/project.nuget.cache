@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "56qi40TcbWU=",
+  "dgSpecHash": "UVE/j/1kZpo=",
   "success": true,
   "projectFilePath": "C:\\Users\\AHMET80\\DocuFlow\\DocuFlow.Application\\DocuFlow.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AHMET80\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.7\\microsoft.entityframeworkcore.9.0.7.nupkg.sha512",
+    "C:\\Users\\AHMET80\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.7\\microsoft.entityframeworkcore.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\AHMET80\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.7\\microsoft.entityframeworkcore.analyzers.9.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

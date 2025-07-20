@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocuFlow.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afa010ff9adf13eb5078c0239a48c06efbcf7c30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85bdee3719971d7cf9a27c67b3b5a254c8ed0ae2")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocuFlow.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocuFlow.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

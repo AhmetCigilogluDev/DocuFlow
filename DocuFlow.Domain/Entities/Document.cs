@@ -4,7 +4,10 @@ namespace DocuFlow.Domain.Entities
         //Guid Id, Title, FilePath, FileType, UploadedBy,
         //CreatedAt, LastModifiedAt, IsApproved, List<> Tags, Guid? FolderId, VersionNumber
         public Guid Id {get; set;}
-        public string Title {get; set;}  = string.Empty;
+        
+        public string Name { get; set; } = string.Empty;
+        public string Path { get; set; } = string.Empty;
+        public string Title { get; set; } = string.Empty;
         public string FilePath {get; set;} = string.Empty;
         public string FileType {get; set;} = string.Empty;
         public string UploadedBy {get; set;} = string.Empty;

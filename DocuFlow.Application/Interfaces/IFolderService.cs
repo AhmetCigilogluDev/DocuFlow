@@ -1,4 +1,5 @@
 using DocuFlow.Application.DTO;
+using Microsoft.AspNetCore.Http;
 
 namespace DocuFlow.Application.Interfaces
 {
@@ -11,5 +12,7 @@ namespace DocuFlow.Application.Interfaces
         Task AddAsync(FolderDto dto);
         Task UpdateAsync(FolderDto dto);
         Task DeleteAsync(Guid id);
+
+        Task UploadFileAsync(IFormFile file);
     }
 }

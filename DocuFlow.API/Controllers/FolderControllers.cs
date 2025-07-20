@@ -1,9 +1,12 @@
 using DocuFlow.Application.DTO;
+
 using DocuFlow.Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Microsoft.AspNetCore.WebUtilities;
+using DocuFlow.Infrastructure.Services;
 
+using Microsoft.AspNetCore.Http;
 namespace DocuFlow.API.Controllers
 {
     [Route("api/[controller]")]
@@ -37,16 +40,27 @@ namespace DocuFlow.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Add([FromBody] FolderDto dto)
         {
-                     await _folderService.AddAsync(dto);
-            return CreatedAtAction(nameof(GetById), new { id = dto.Id }, dto);   }
+            await _folderService.AddAsync(dto);
+            return CreatedAtAction(nameof(GetById), new { id = dto.Id }, dto);
+        }
         //   return CreatedAtAction(nameof(GetById), new { id = dto.Id }, dto!);
 
-        [HttpPut]
-        public async Task<IActionResult> Update([FromBody]FolderDto dto)
-        {
-            await _folderService.UpdateAsync(dto);
-            return NoContent();
-        }
+
+        [HttpPost("upload")]
+[Consumes("multipart/form-data")]
+public async Task<IActionResult> Upload(IFormFile file)
+{
+    if (file == null || file.Length == 0)
+        return BadRequest("Dosya seçilmedi.");
+
+    await _folderService.UploadFileAsync(file); // Serviste zaten bu metot vardı
+    return Ok("Dosya başarıyla yüklendi.");
+}
+
+
+
+
+        
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(Guid id)

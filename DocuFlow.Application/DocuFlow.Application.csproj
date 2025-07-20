@@ -3,9 +3,19 @@
   <ItemGroup>
     <ProjectReference Include="..\DocuFlow.Domain\DocuFlow.Domain.csproj" />
     <ProjectReference Include="..\DocuFlow.Shared\DocuFlow.Shared.csproj" />
+
   
     
   </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+  <FrameworkReference Include="Microsoft.AspNetCore.App" />
+</ItemGroup>
+
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
